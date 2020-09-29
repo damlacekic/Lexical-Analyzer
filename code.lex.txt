@@ -1,0 +1,27 @@
+identifier : hi
+operator : := 
+identifier : hello
+keywords : for
+operator : + 
+IntCons : 25
+End of the Line 
+identifier : hello
+operator :++ 
+End of the Line 
+keywords : do
+End of the Line 
+keywords : while
+LeftPar : ( 
+identifier : i
+operator : := 
+IntCons : 0
+RigthPar :) 
+LeftCurlyBracket : { 
+identifier : lol
+keywords : else
+LeftCurlyBracket : { 
+identifier : home
+End of the Line 
+String : Hello world
+End of the Line 
+RightCurlyBracket : } 

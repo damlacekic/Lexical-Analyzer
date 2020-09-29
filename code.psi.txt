@@ -1,0 +1,10 @@
+hi:=hello for+25; (*addition *)
+hello++; (*increment*)
+do;
+while(i:=0){
+lol
+else{
+home;
+"Hello world";
+}
+

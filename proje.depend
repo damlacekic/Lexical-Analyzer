@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587650912 source:c:\users\damla\onedrive\desktop\kodlama\c\proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
